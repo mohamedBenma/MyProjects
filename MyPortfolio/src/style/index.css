@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Lato:wght@400;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  margin: 0 auto;
+  scroll-behavior: smooth;
+}
+:root {
+  --text: "Lato", sans-serif;
+}
+body {
+  font-family: "ABeeZee", sans-serif;
+  background-color: #000;
+}
+html::-webkit-scrollbar {
+  background-color: #46465e;
+  width: 10px;
+}
+html::-webkit-scrollbar-thumb {
+  background-color: #01be96;
+  border-radius: 20px;
+  width: 10px;
+}
+
+main {
+  position: relative;
+  background-color: #000;
+}
