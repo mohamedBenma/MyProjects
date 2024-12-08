@@ -1,0 +1,31 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+{% for message in app.flashes('notice') %}
+    <div class="flash-notice">
+        {{ message }}
+    </div>
+{% endfor %}
+
+<style>
+    .example-wrapper { margin: 0.2em auto; max-width: 700px; width: 70%; font: 18px/1.5 sans-serif,background-color:grey}
+    .example-wrapper code { background: #F5F5F5; padding: 2px 6px}
+    h1{background-image:url(image.jpg)}
+    
+    
+    
+</style>
+<body>
+<head>
+<link rel="stylesheet" href="monstyle.css" type="text/css" >
+<div class="example-wrapper">
+
+    <center><strong><h1>{{ controller_name }} </h1></strong></center>
+    
+   {{ form(contactForm) }}
+</div>
+</body>
+</head>
+
+{% endblock %}
+

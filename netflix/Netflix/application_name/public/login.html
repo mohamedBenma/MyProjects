@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>login/register</title>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/loginstyle.css" />
+
+  <script src="./javascripts/login.js" defer="true"></script>
+</head>
+
+<body>
+  <div id="netflix-logo">
+    <a href="principalPage.html">
+      <h1>NETFLIX</h1>
+    </a>
+
+  </div>
+  <div id="form">
+    <!-- partial:index.partial.html -->
+    <div class="login-form">
+      <h1>S'identifier</h1>
+      <div class="content">
+        <div class="input-field">
+          <input type="text" placeholder="E-mail ou numéro de téléphone" value="" id="userlogin" />
+        </div>
+        <div class="input-field">
+          <input type="password" placeholder="Mot de passe" value="" id="userpassword" />
+        </div>
+      </div>
+      <div class="action">
+        <button id="login">S'identifier</button>
+        <!-- <a href="/access/register">créez un compte</a>
+        <a href="/access/main">Acceuil</a> -->
+        <div id="login-bottom1">
+          <div id="login-bottom1-left">
+            <input type="checkbox" name="" id="checkbox">
+            <h3>Se souvenir de moi</h3>
+          </div>
+          <a href="http://">Besoin d'aide ?</a>
+        </div>
+        <div id="login-bottom2">
+          <h2>Première visite sur Netflix ?</h2>
+          <a href="/access/register">Inscrivez-vous.</a>
+        </div>
+        <div id="captcha">
+          <h4>Cette page est protégée par Google reCAPTCHA pour</h4>
+          <h4>nous assurer que vous n'êtes pas un robot.</h4>
+          <a href="http://">En savoir plus.</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- partial -->
+  <div id="problem"></div>
+</body>
+
+</html>

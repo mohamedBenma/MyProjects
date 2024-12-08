@@ -1,0 +1,73 @@
+#navBar1 {
+    display: flex;
+    margin-bottom: 1%;
+    border-bottom: 0.5mm solid rgba(187, 184, 184, 0.438);
+
+}
+
+input {
+    display: flex;
+    height: 54px;
+    width: 430px;
+}
+
+#userpassword {
+    margin-top: 12px;
+}
+
+#checkbox1 {
+    display: flex;
+    margin-top: 15px;
+
+}
+
+#checkbox1 h5 {
+    font-size: 16px;
+    margin-left: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#chbx {
+    width: 32px;
+    margin-top: 7px;
+}
+
+#box1 h4 {
+
+    font-size: 12px;
+    padding-top: 25px;
+    color: rgba(51, 51, 51, 0.849);
+}
+
+#box1 h2 {
+    font-size: 27px;
+    text-align: left;
+    color: rgb(51, 51, 51);
+    line-height: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#box1 h3 {
+    margin-bottom: 12px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 18px;
+    color: rgb(53, 49, 49);
+    line-height: 16px;
+
+}
+
+#box1 {
+    margin-bottom: 50px;
+    margin-left: 35%;
+    text-align: left;
+}
+
+#next1 {
+    width: 45%;
+    height: 60px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #e50914;
+    color: white;
+}

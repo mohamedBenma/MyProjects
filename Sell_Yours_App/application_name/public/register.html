@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+  <meta charset="UTF-8"/>
+  <title>login/register</title>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/loginstyle.css"/>
+
+  <script src="./javascripts/register.js" defer="true"/></script>
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="login-form">
+  <div id="form">
+    <h1>Login</h1>
+    <div class="content">
+      <div class="input-field">
+        <input type="text" placeholder="nom" value="" id="username"/>
+      </div>
+      <div class="input-field">
+        <input type="text" placeholder="login" value="" id="userlogin"/>
+      </div>
+      <div class="input-field">
+        <input type="password" placeholder="mot de passe" value="" id="userpassword"/>
+      </div>
+      <a href="#" class="link">Forgot Your Password?</a>
+    </div>
+    <div class="action">
+      <button id="register">Register</button>
+      <a href="/access/login">vous avez déjà un compte ?</a>
+    </div>
+  </div>
+</div>
+<!-- partial -->
+  <div id="problem"></div>
+</body>
+</html>

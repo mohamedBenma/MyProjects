@@ -1,0 +1,236 @@
+#netflix-logo h1 {
+  color: #e50914;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 5px;
+  font-size: 35px;
+  font-weight: 40px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+
+#netflix-logo {
+  margin-left: 40px;
+
+  margin-top: 30px;
+}
+
+
+
+body {
+  background-size: 80%;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/background.jpeg");
+  height: 100%;
+  background-size: cover;
+}
+
+.login-form {
+  background: rgba(0, 0, 0, 0.685);
+  width: 440px;
+  height: 600px;
+  margin: 55px auto;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  border-radius: 4px;
+  box-shadow: 0 2px 25px rgba(0, 0, 0, 0.2);
+  padding-bottom: 20px;
+}
+
+.login-form h1 {
+  padding: 30px 35px 0 35px;
+  font-weight: 300;
+  color: white;
+  margin-left: 25px;
+  font-size: 32px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.login-form .content {
+  padding: 35px;
+  text-align: center;
+  padding-top: 5px;
+
+
+}
+
+.login-form .input-field {
+  padding: 12px 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+  border: none;
+}
+
+#login {
+  width: 75%;
+  height: 45px;
+  margin-left: 57px;
+  border: none;
+  border-radius: 4px;
+  background-color: #e50914;
+  color: white;
+}
+
+#login-bottom1 {
+  display: flex;
+}
+
+#login-bottom1-left {
+  margin-left: 55px;
+  display: flex;
+}
+
+#login-bottom1 a {
+  margin-left: 82px;
+  margin-top: 11px;
+  text-decoration: none;
+  color: #b3b3b38e;
+  font-size: 13px;
+}
+
+#login-bottom1-left h3 {
+  color: #b3b3b38e;
+  font-size: 14px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#login-bottom2 h2 {
+  color: #b3b3b38e;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#login-bottom2 a {
+  margin-left: 5px;
+  margin-top: 11px;
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+#login-bottom2 {
+  margin-top: 20px;
+  margin-left: 58px;
+}
+
+#captcha {
+  display: block;
+  margin-left: 60px;
+  padding-bottom: 2px;
+  line-height: 2px;
+}
+
+#captcha h4 {
+  color: #b3b3b38e;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2px;
+}
+
+#captcha a {
+  text-decoration: none;
+
+  font-size: 13px;
+}
+
+#login-bottom2 {
+  display: flex;
+}
+
+h1 {
+  color: black;
+}
+
+
+
+.login-form .input-field input {
+  font-size: 16px;
+  display: block;
+  font-family: fantasy;
+  margin: 0px, 3Opx, Opx, 30px;
+  width: 100%;
+  height: 26px;
+  padding: 10px 1px;
+  border: 0;
+  border-bottom: 1px solid #747474;
+  outline: none;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+  color: white;
+  background-color: #333;
+  border-radius: 3px;
+  border-color: transparent;
+}
+
+.login-form .input-field input::-webkit-input-placeholder {
+  text-align: start
+}
+
+.login-form .input-field input::-moz-placeholder {
+  text-align: start;
+}
+
+.login-form .input-field input:-ms-input-placeholder {
+  text-align: start;
+}
+
+.login-form .input-field input::-ms-input-placeholder {
+  text-align: start;
+}
+
+.login-form .input-field input::placeholder {
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.login-form .input-field input:focus {}
+
+.login-form a.link {
+  text-decoration: none;
+  color: #747474;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+
+
+.login-form .action button {
+  width: 100%;
+  border: none;
+  padding: 18px;
+  font-family: 'Rubik', sans-serif;
+  cursor: pointer;
+  text-transform: uppercase;
+  background: #e8e9ec;
+  color: #777;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 0;
+  letter-spacing: 0.2px;
+  outline: 0;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
+.login-form .action button:hover {
+  background: #d8d8d8;
+}
+
+.login-form .action button:nth-child(2) {
+  background: #2d3b55;
+  color: #fff;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 4px;
+}
+
+.login-form .action button:nth-child(2):hover {
+  background: #3c4d6d;
+}

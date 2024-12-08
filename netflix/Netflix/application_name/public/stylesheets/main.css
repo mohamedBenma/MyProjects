@@ -1,0 +1,146 @@
+body {
+
+    background-size: 80%;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/background.jpeg");
+    height: 100%;
+
+    background-size: cover;
+}
+
+#netflix-logo h1 {
+    color: #e50914;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+    font-size: 35px;
+    font-weight: 50px;
+
+
+
+}
+
+#favoriteOnly {
+    height: 31px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-style: groove;
+    border-width: 1px;
+    color: antiquewhite;
+    padding: 0px 20px 10px 20px;
+    width: 120px;
+    border: none;
+
+
+
+}
+
+#navBar {
+    display: flex;
+    margin-bottom: 12%;
+}
+
+#nav-right {
+    margin-left: 63%;
+
+    margin-top: 19px;
+}
+
+#languages {
+    border: solid;
+    padding-top: 1px;
+    height: 29px;
+    margin-right: 20px;
+    display: flex;
+    border-style: groove;
+    border-width: 1px;
+    border-color: aliceblue;
+
+}
+
+
+#login {
+    height: 34px;
+
+    padding: 6px 14px 14px 14px;
+
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: #e50914;
+    border-color: #e50914;
+    border-radius: 4px;
+
+}
+
+#message-accueil {
+    text-align: center;
+}
+
+img {
+    width: 28px;
+    height: 28px;
+    opacity: 0.3;
+}
+
+#message-accueil h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 5px;
+}
+
+
+#message-accueil h2 {
+    color: white;
+}
+
+#message-accueil h3 {
+    color: antiquewhite;
+    font-family: Haettenschweiler;
+    font-size: 16px;
+}
+
+#footer-bar {
+    display: flex;
+    margin-left: 26%;
+}
+
+
+
+input {
+    height: 60px;
+    width: 480px;
+
+}
+
+#input-mail {
+
+    height: 40px;
+}
+
+#netflix-logo {
+    margin-left: 40px;
+
+}
+
+#nav-right {
+    display: flex;
+}
+
+#start {
+    height: 65px;
+    width: 250px;
+    padding: 10px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: #e50914;
+    border-color: #e50914;
+    border-radius: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+
+img {
+
+    filter: drop-shadow(5px 5px 5px #666666);
+}
