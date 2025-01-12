@@ -127,10 +127,11 @@ export const skills = [
 
 export const projects = [
   {
-    img: "../../../img/tasks-manager.webp",
+    img: "https://www.consultancy.eu/illustrations/news/spotlight/2023-04-14-073342938-Atos_lanceert_merk_van_spin-off_Eviden_spotlight.jpg",
     title: "Eviden-CRE",
-    link: "https://task-manager-ecru-chi.vercel.app/dashboard",
-    description: `Administrador de tareas con drag and drop autenticación con Clerk , shadcn.  "En Desarrollo "`,
+    link: "https://eviden.com/fr-fr/",
+    description: `Plateforme RH pour la gestion et le suivi des processus de
+ recrutement.`,
     technologies: [
       {
         icon: IconKeys.typeScript,
@@ -150,10 +151,10 @@ export const projects = [
     ],
   },
   {
-    img: "../../../img/ecommerce-stripe-2.webp",
+    img: "https://www.consultancy.eu/illustrations/news/spotlight/2023-04-14-073342938-Atos_lanceert_merk_van_spin-off_Eviden_spotlight.jpg",
     title: "Eviden-OnBoarding",
-    link: "https://ecommerce-stripe-763m.vercel.app/",
-    description: `Proyecto FullStack de un ecommerce con pasarela de pagos stripe integrada, destalles de el product etc.  `,
+    link: "https://eviden.com/fr-fr/",
+    description: `Plateforme pour faciliter l’intégration et l’accompagnement.  `,
     technologies: [
       {
         icon: IconKeys.typeScript,
@@ -169,6 +170,26 @@ export const projects = [
       },
       {
         icon: IconKeys.stripe,
+      },
+    ],
+  },
+  {
+    img: "https://www.vadesecure.com/hubfs/Vade%20Coud%20DKIM%20Authentification.jpeg",
+    title: "Vade-Cloud",
+    link: "https://www.vadesecure.com/fr/cloud-for-enterprise",
+    description: `solution de sécurité email, spécialisée dans la protection contre le phishing, les malwares et le spam`,
+    technologies: [
+      {
+        icon: IconKeys.react,
+      },
+      {
+        icon: IconKeys.css,
+      },
+      {
+        icon: IconKeys.javaScript,
+      },
+      {
+        icon: IconKeys.tailwind,
       },
     ],
   },
@@ -192,7 +213,7 @@ export const projects = [
   {
     img: "../../../img/store-games.webp",
     title: "WebMagic",
-    link: "https://store-games-site.netlify.app/",
+    link: "",
     description: `Analyse, refactoring et résolution d'erreurs sur un projet open source de grande 
 envergure.`,
     technologies: [
@@ -216,7 +237,7 @@ envergure.`,
   {
     img: "../../../img/victory-quest.jpg",
     title: "Victory Quest",
-    link: "https://movietvsite.netlify.app/",
+    link: "https://github.com/mohamedBenma/MyProjects/tree/main/Sports_Competiton_Game",
     description: `Créez et gérez vos propres compétitions sportives avec ce jeu de simulation ! `,
     technologies: [
       {
@@ -236,7 +257,7 @@ envergure.`,
   {
     img: "../../../img/cyberpunk.webp",
     title: "Sell Yours App",
-    link: "https://preeminent-liger-266356.netlify.app/",
+    link: "https://github.com/mohamedBenma/MyProjects/tree/main/Sell_Yours_App/application_name",
     description: `Plateforme d'échange d'objets : vendez et achetez facilement !.`,
     technologies: [
       {
@@ -251,32 +272,11 @@ envergure.`,
     ],
   },
 
-  {
-    img: "../../../img/fit-nation.webp",
-    title: "gym",
-    link: "https://fitnation.netlify.app/",
-    description: `landing page de una gym por ahora es una landing todavia está en
-              desarrollo la idea es que los usuarios puedan comprar productos de
-              el gym`,
-    technologies: [
-      {
-        icon: IconKeys.react,
-      },
-      {
-        icon: IconKeys.css,
-      },
-      {
-        icon: IconKeys.javaScript,
-      },
-      {
-        icon: IconKeys.tailwind,
-      },
-    ],
-  },
+
   {
     img: "../../../img/pong-game.jpg",
     title: "Multiplayer-Pong",
-    link: "https://www.linkedin.com/posts/osnaider-mart%C3%ADnez_clon-de-la-p%C3%A1gina-de-spotify-echo-con-react-activity-7119712602342965248-upgL?utm_source=share&utm_medium=member_desktop",
+    link: "https://github.com/mohamedBenma/MyProjects/tree/main/Pong",
     description: `Jeu "Pong" en version réseau simplifiée. `,
     technologies: [
       {
@@ -299,9 +299,9 @@ envergure.`,
 
   {
     img: "../../../img/netflix-clone.jpg",
-    title: "Netflix-Clone",
-    link: "https://realityvirtual.netlify.app/",
-    description: `Clone de Netflix : Une expérience de streaming réinventée. `,
+    title: "Memory Game",
+    link: "https://github.com/mohamedBenma/MyProjects/tree/main/netflix/Netflix",
+    description: `Jeu de mémoire avec des cartes d'animaux, basé sur la découverte de paires identiques. `,
     technologies: [
       {
         icon: IconKeys.astro,

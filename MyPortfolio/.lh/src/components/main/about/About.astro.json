@@ -1,0 +1,18 @@
+{
+    "sourceFile": "src/components/main/about/About.astro",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1736688399977,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1736688399977,
+            "name": "Commit-0",
+            "content": "<section class=\"section-about\">\r\n  <div class=\"linear-grandient-1\"></div>\r\n  <div class=\"container-about\">\r\n    <div class=\"container-text-about\">\r\n      <h2 class=\"title-about\" id=\"sobremi\">À propos de moi</h2>\r\n      <p>\r\n        Développeur curieux et toujours prêt à relever de nouveaux défis, j’aime explorer des technologies variées et apprendre en créant. Mon approche est simple : coder, tester, améliorer. Que ce soit pour construire une application web, optimiser un processus ou automatiser une tâche, je cherche des solutions efficaces et bien pensées. En dehors du code, je m’intéresse aux outils qui simplifient la vie des développeurs et permettent de gagner en productivité.\r\n      </p>\r\n    </div>\r\n    <div class=\"container-svg-about\">\r\n      <div class=\"container-svg\">\r\n        <lottie-player\r\n          src=\"https://assets8.lottiefiles.com/packages/lf20_sg18igu8.json\"\r\n          background=\"transparent\"\r\n          speed=\"1\"\r\n          style=\"width: 380px; height: 380px; position:relative;\"\r\n          loop\r\n          autoplay></lottie-player>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</section>\r\n\r\n<script\r\n  src=\"https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js\"\r\n></script>\r\n\r\n<style>\r\n  .linear-grandient-1 {\r\n    position: absolute;\r\n    left: 0;\r\n    top: 0;\r\n    width: 100%;\r\n    height: 100%;\r\n    /* background: radial-gradient(at left center, rgba(1, 190, 150 , 0.5), transparent , transparent); */\r\n    background: linear-gradient(to top, #000, rgba(1, 190, 150, 0.5));\r\n    background:;\r\n    z-index: 0;\r\n  }\r\n\r\n  .section-about {\r\n    position: relative;\r\n    background-color: #111111;\r\n  }\r\n  .container-about {\r\n    position: relative;\r\n    width: 90%;\r\n    display: flex;\r\n    margin: 0 auto;\r\n    max-width: 1355px;\r\n  }\r\n\r\n  .container-text-about {\r\n    position: relative;\r\n    width: 50%;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: center;\r\n  }\r\n  .title-about {\r\n    position: relative;\r\n    display: block;\r\n    font-size: 27px;\r\n    padding: 10px 0;\r\n    color: #f6f6f9;\r\n    width: 100%;\r\n    font-weight: 800;\r\n    scroll-margin-top: 80px;\r\n  }\r\n  .container-text-about p {\r\n    font-size: 17px;\r\n    color: #f6f6f9;\r\n    text-align: left;\r\n    letter-spacing: 1px;\r\n  }\r\n\r\n  .container-svg-about {\r\n    position: relative;\r\n    width: 50%;\r\n  }\r\n  .container-svg {\r\n    position: relative;\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: center;\r\n    padding-left: 100px;\r\n  }\r\n\r\n  /*  responsive  */\r\n\r\n  @media (max-width: 900px) {\r\n    /*Resposivo de la seccion sobre mi*/\r\n    .container-about {\r\n      flex-direction: column;\r\n    }\r\n    .container-svg-about {\r\n      width: 100%;\r\n    }\r\n    .container-svg {\r\n      justify-content: start;\r\n      align-items: end;\r\n      padding: 0;\r\n    }\r\n    .container-text-about {\r\n      width: 100%;\r\n      padding: 10px 0;\r\n    }\r\n  }\r\n</style>\r\n"
+        }
+    ]
+}

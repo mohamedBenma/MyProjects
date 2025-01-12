@@ -3,11 +3,47 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 9,
             "patches": [
                 {
                     "date": 1736685935970,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1736687964183,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -93,9 +93,9 @@\n     <div class=\"container-photo-profile\">\r\n       <div class=\"photo-perfil\">\r\n         <picture>\r\n           {/* If you are not using vercel, place a normal <img> tag */}\r\n-          <Image src={photoperfil} alt=\"Osnaider Martinez\" id=\"inicio\" />\r\n+          <Image src={photoperfil} alt=\"Mohamed Benmaouche\" id=\"inicio\" />\r\n         </picture>\r\n       </div>\r\n     </div>\r\n   </dir>\r\n"
+                },
+                {
+                    "date": 1736688892620,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -157,8 +157,12 @@\n   align-items: center;    /* Aligne les éléments verticalement au centre */\r\n   flex-wrap: wrap;        /* Permet de renvoyer les éléments à la ligne si nécessaire */\r\n   gap: 5px;              /* Espace entre les éléments (texte et logos) */\r\n   line-height:1.5\r\n+  padding: 12px 0;\r\n+    font-size: 19px;\r\n+    width: 90%;\r\n+    text-align: left;\r\n }\r\n \r\n \r\n .link-logo {\r\n@@ -245,12 +249,9 @@\n     }\r\n   }\r\n \r\n   .p-presentation {\r\n-    padding: 12px 0;\r\n-    font-size: 19px;\r\n-    width: 90%;\r\n-    text-align: left;\r\n+   \r\n   }\r\n \r\n   .container-curriculum {\r\n     position: relative;\r\n"
+                },
+                {
+                    "date": 1736688900571,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -158,11 +158,11 @@\n   flex-wrap: wrap;        /* Permet de renvoyer les éléments à la ligne si nécessaire */\r\n   gap: 5px;              /* Espace entre les éléments (texte et logos) */\r\n   line-height:1.5\r\n   padding: 12px 0;\r\n-    font-size: 19px;\r\n-    width: 90%;\r\n-    text-align: left;\r\n+  font-size: 19px;\r\n+  width: 90%;\r\n+  text-align: left;\r\n }\r\n \r\n \r\n .link-logo {\r\n"
+                },
+                {
+                    "date": 1736688910477,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -248,12 +248,8 @@\n       transform: scaleX(1) scaleY(1);\r\n     }\r\n   }\r\n \r\n-  .p-presentation {\r\n-   \r\n-  }\r\n-\r\n   .container-curriculum {\r\n     position: relative;\r\n     padding: 40px 0;\r\n     display: flex;\r\n"
+                },
+                {
+                    "date": 1736688930314,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -156,9 +156,9 @@\n   display: flex;\r\n   align-items: center;    /* Aligne les éléments verticalement au centre */\r\n   flex-wrap: wrap;        /* Permet de renvoyer les éléments à la ligne si nécessaire */\r\n   gap: 5px;              /* Espace entre les éléments (texte et logos) */\r\n-  line-height:1.5\r\n+  line-height:1.5;\r\n   padding: 12px 0;\r\n   font-size: 19px;\r\n   width: 90%;\r\n   text-align: left;\r\n"
+                },
+                {
+                    "date": 1736688938576,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -153,11 +153,11 @@\n   }\r\n   .p-presentation {\r\n   font-size:15px;\r\n   display: flex;\r\n-  align-items: center;    /* Aligne les éléments verticalement au centre */\r\n-  flex-wrap: wrap;        /* Permet de renvoyer les éléments à la ligne si nécessaire */\r\n-  gap: 5px;              /* Espace entre les éléments (texte et logos) */\r\n+  align-items: center;   \r\n+  flex-wrap: wrap;       \r\n+  gap: 5px;             \r\n   line-height:1.5;\r\n   padding: 12px 0;\r\n   font-size: 19px;\r\n   width: 90%;\r\n"
+                },
+                {
+                    "date": 1736688953148,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -161,8 +161,9 @@\n   padding: 12px 0;\r\n   font-size: 19px;\r\n   width: 90%;\r\n   text-align: left;\r\n+  font-family:cursive;\r\n }\r\n \r\n \r\n .link-logo {\r\n"
+                },
+                {
+                    "date": 1736688971831,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -159,9 +159,9 @@\n   gap: 5px;             \r\n   line-height:1.5;\r\n   padding: 12px 0;\r\n   font-size: 19px;\r\n-  width: 90%;\r\n+  width: 75%;\r\n   text-align: left;\r\n   font-family:cursive;\r\n }\r\n \r\n"
+                },
+                {
+                    "date": 1736688983865,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -159,9 +159,9 @@\n   gap: 5px;             \r\n   line-height:1.5;\r\n   padding: 12px 0;\r\n   font-size: 19px;\r\n-  width: 75%;\r\n+  width: 80;\r\n   text-align: left;\r\n   font-family:cursive;\r\n }\r\n \r\n"
                 }
             ],
             "date": 1736685935970,

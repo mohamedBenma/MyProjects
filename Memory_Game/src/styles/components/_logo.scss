@@ -1,0 +1,38 @@
+.logo {
+  @include verticalCenter;
+  justify-content: center;
+  align-items: center;
+  margin-left: 3%;
+  margin-top: 10px;
+  width: 300px;
+  border-radius: 20px;
+  padding: 5px 0;
+  box-shadow: 10 2px 3px rgba(0, 0, 0, 0.307);
+  background-position: center;
+  border: solid;
+  background-color: antiquewhite;
+  background-size: inherit;
+  margin-bottom: 0px;
+
+  :hover {
+    width: 500px;
+    transition: background 0.3s 0.1s;
+    transition-property: background;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0.1s;
+  }
+
+
+
+  // import depuis le dossier public
+
+  img {
+    height: 40px;
+  }
+
+  h3 {
+    margin-left: 10px;
+    color: $color-1;
+  }
+}

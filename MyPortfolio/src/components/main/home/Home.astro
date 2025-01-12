@@ -94,7 +94,7 @@ import photoperfil from "../../../../public/img/id-photo.png";
       <div class="photo-perfil">
         <picture>
           {/* If you are not using vercel, place a normal <img> tag */}
-          <Image src={photoperfil} alt="Osnaider Martinez" id="inicio" />
+          <Image src={photoperfil} alt="Mohamed Benmaouche" id="inicio" />
         </picture>
       </div>
     </div>
@@ -154,10 +154,15 @@ import photoperfil from "../../../../public/img/id-photo.png";
   .p-presentation {
   font-size:15px;
   display: flex;
-  align-items: center;    /* Aligne les éléments verticalement au centre */
-  flex-wrap: wrap;        /* Permet de renvoyer les éléments à la ligne si nécessaire */
-  gap: 5px;              /* Espace entre les éléments (texte et logos) */
-  line-height:1.5
+  align-items: center;   
+  flex-wrap: wrap;       
+  gap: 5px;             
+  line-height:1.5;
+  padding: 12px 0;
+  font-size: 19px;
+  width: 80;
+  text-align: left;
+  font-family:cursive;
 }
 
 
@@ -243,13 +248,6 @@ import photoperfil from "../../../../public/img/id-photo.png";
     100% {
       transform: scaleX(1) scaleY(1);
     }
-  }
-
-  .p-presentation {
-    padding: 12px 0;
-    font-size: 19px;
-    width: 90%;
-    text-align: left;
   }
 
   .container-curriculum {

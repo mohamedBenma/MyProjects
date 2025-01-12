@@ -3,11 +3,19 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1736686383322,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1736688003581,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -18,10 +18,10 @@\n       atractivas y funcionales.\"\r\n     />\r\n     <meta property=\"og:type\" content=\"website\" />\r\n     <meta property=\"og:url\" content=\"https://osnaidermartinez.vercel.app/\" />\r\n-    <meta property=\"og:site_name\" content=\"Osnaider Martinez\" />\r\n-    <meta property=\"og:title\" content=\"Osnaider Martinez Portafolio\" />\r\n+    <meta property=\"og:site_name\" content=\"Mohamed benmaouche\" />\r\n+    <meta property=\"og:title\" content=\"Mohamed benmaouche Portfolio\" />\r\n     <meta\r\n       property=\"og:image\"\r\n       content=\"https://osnaidermartinez.vercel.app/img/preview-page.webp\"\r\n     />\r\n"
+                },
+                {
+                    "date": 1736688025741,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -28,9 +28,9 @@\n \r\n     <script\r\n       src=\"https://kit.fontawesome.com/2898a0ac51.js\"\r\n       crossorigin=\"anonymous\"></script>\r\n-    <title>Portafolio |  Martinez</title>\r\n+    <title>Portfolio |  Benmaouche</title>\r\n   </head>\r\n   <body>\r\n     <Header />\r\n     <Main />\r\n"
                 }
             ],
             "date": 1736686383322,

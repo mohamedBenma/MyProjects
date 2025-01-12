@@ -1,0 +1,9 @@
+* U-> le nombre de noeuds fils max 
+* L-> le nombre de noeuds  fils min
+* n+1 fils == f[1]..f[n+1]
+* le nombre de cles d'un noeud qui n'est pas 
+une racine est compris entre L-1 et U-1 
+* toutes les feuille on la meme profondeur
+* pour le premier fils f[1]: x<= cles[1] (x est un noeud )
+* pour le dernier fils f[n+1]: x >= cles[n]
+* pour les autre : cles[i-1] <= x <= cles[i]
