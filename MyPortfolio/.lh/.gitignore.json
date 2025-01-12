@@ -1,0 +1,18 @@
+{
+    "sourceFile": ".gitignore",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1736686916756,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1736686916756,
+            "name": "Commit-0",
+            "content": "# build output\r\n# generated types\r\n.astro/\r\n.history\r\n# dependencies\r\nnode_modules/\r\n\r\n# logs\r\nnpm-debug.log*\r\nyarn-debug.log*\r\nyarn-error.log*\r\npnpm-debug.log*\r\n\r\n\r\n# environment variables\r\n.env\r\n.env.production\r\n\r\n# macOS-specific files\r\n.DS_Store\r\n"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "sourceFile": "src/pages/index.astro",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1736686383322,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1736686383322,
+            "name": "Commit-0",
+            "content": "---\r\nimport Header from \"../components/header/Header.astro\";\r\nimport \"../style/index.css\";\r\nimport Main from \"../components/main/main.astro\";\r\nimport Footer from \"../components/footer/Footer.astro\";\r\n---\r\n\r\n<html lang=\"es\">\r\n  <head>\r\n    <meta charset=\"utf-8\" />\r\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.svg\" />\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <meta name=\"generator\" content={Astro.generator} />\r\n    <meta\r\n      name=\"description\"\r\n      content=\"Osnaider Martinez de desarrollador web Frontend React Js , Astro , \r\n      Next Js Con más de 1 año de experiencia en la creación de experiencias web\r\n      atractivas y funcionales.\"\r\n    />\r\n    <meta property=\"og:type\" content=\"website\" />\r\n    <meta property=\"og:url\" content=\"https://osnaidermartinez.vercel.app/\" />\r\n    <meta property=\"og:site_name\" content=\"Osnaider Martinez\" />\r\n    <meta property=\"og:title\" content=\"Osnaider Martinez Portafolio\" />\r\n    <meta\r\n      property=\"og:image\"\r\n      content=\"https://osnaidermartinez.vercel.app/img/preview-page.webp\"\r\n    />\r\n\r\n    <script\r\n      src=\"https://kit.fontawesome.com/2898a0ac51.js\"\r\n      crossorigin=\"anonymous\"></script>\r\n    <title>Portafolio |  Martinez</title>\r\n  </head>\r\n  <body>\r\n    <Header />\r\n    <Main />\r\n    <Footer />\r\n  </body>\r\n</html>\r\n"
+        }
+    ]
+}

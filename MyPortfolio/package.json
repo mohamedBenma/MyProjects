@@ -10,8 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "^7.7.0",
+    "@astrojs/netlify": "^6.0.0",
     "@splidejs/splide": "^4.1.4",
-    "astro": "^4.10.2"
+    "astro": "^5.0.5"
   }
 }
