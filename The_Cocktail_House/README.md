@@ -51,12 +51,12 @@ http://localhost:8080/
 
 Une fois sur la page principale, trois cocktails vous sont proposés avec toutes les informations nécessaires. Vous pouvez consulter facilement leurs descriptions et leurs ingrédients.  
 
-![Page Principale](./READMEImages/pagePrincipale.png)  
+![Page Principale](./ReadmeImages/pagePrincipale.png)  
 
 ### Cocktail du jour  
 
 Un cocktail du jour vous est proposé, accompagné de la liste complète des ingrédients et d’instructions détaillées pour sa préparation et son service.  
 
-![Cocktails](./READMEImages/cocktails.png)  
+![Cocktails](./ReadmeImages/cocktails.png)  
 
-![Seconde Page](./READMEImages/secondePage.png)  
+![Seconde Page](./ReadmeImages/secondePage.png)  
