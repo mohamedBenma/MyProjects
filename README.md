@@ -17,57 +17,57 @@ J'aime explorer de nouvelles technologies, et à travers mes projets personnels 
 Je suis un **développeur Full Stack** avec une expérience dans divers domaines de la tech, de la création d'interfaces utilisateurs fluides à la gestion de bases de données en passant par l'intégration de solutions cloud.
 
 ### **Langages de Programmation :**
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) Python
-- ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat&logo=java&logoColor=white) Java
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white) JavaScript
-- ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) C
-- ![PHP](https://img.shields.io/badge/PHP-%23777777.svg?style=flat&logo=php&logoColor=white) PHP
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) HTML
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) CSS
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python**
+- ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat&logo=java&logoColor=white) **Java**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white) **JavaScript**
+- ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) **C**
+- ![PHP](https://img.shields.io/badge/PHP-%23777777.svg?style=flat&logo=php&logoColor=white) **PHP**
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) **HTML5** 
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) **CSS**
 
 ### **Frameworks Front-End :**
-- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) React
-- ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white) Vue.js
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) Next.js
-- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) Angular
+- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) **React**
+- ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white) **Vue.js**
+- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) **Next.js**
+- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) **Angular**
 
 ### **Frameworks Back-End :**
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) Node.js
-- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white) Express.js
-- ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) Symfony
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237A1F5C.svg?style=flat&logo=bootstrap&logoColor=white) Bootstrap
-- ![Vuetify](https://img.shields.io/badge/Vuetify-%233D1D55.svg?style=flat&logo=vuetify&logoColor=white) Vuetify
+- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) **Node.js**
+- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white) **Express.js**
+- ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) **Symfony**
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237A1F5C.svg?style=flat&logo=bootstrap&logoColor=white) **Bootstrap**
+- ![Vuetify](https://img.shields.io/badge/Vuetify-%233D1D55.svg?style=flat&logo=vuetify&logoColor=white) **Vuetify**
 
 ### **Bases de données :**
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) MySQL
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300477D.svg?style=flat&logo=postgresql&logoColor=white) PostgreSQL
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) MongoDB
-- ![Prisma](https://img.shields.io/badge/Prisma-%233DB1E5.svg?style=flat&logo=prisma&logoColor=white) Prisma
-- ![TypeORM](https://img.shields.io/badge/TypeORM-%23000F00.svg?style=flat&logo=typeorm&logoColor=white) TypeORM
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) **MySQL**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300477D.svg?style=flat&logo=postgresql&logoColor=white) **PostgreSQL**
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) **MongoDB**
+- ![Prisma](https://img.shields.io/badge/Prisma-%233DB1E5.svg?style=flat&logo=prisma&logoColor=white) **Prisma**
+- ![TypeORM](https://img.shields.io/badge/TypeORM-%23000F00.svg?style=flat&logo=typeorm&logoColor=white) **TypeORM**
 
 ### **Tests :**
-- ![VueTest](https://img.shields.io/badge/VueTest-%23312121.svg?style=flat&logo=vue.js&logoColor=white) VueTest
-- ![Cypress](https://img.shields.io/badge/Cypress-%23132C42.svg?style=flat&logo=cypress&logoColor=white) Cypress
-- ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white) Jest
-- Méthodologie TDD
+- ![VueTest](https://img.shields.io/badge/VueTest-%23312121.svg?style=flat&logo=vue.js&logoColor=white) **VueTest**
+- ![Cypress](https://img.shields.io/badge/Cypress-%23132C42.svg?style=flat&logo=cypress&logoColor=white) **Cypress**
+- ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white) **Jest**
+- **Méthodologie TDD**
 
 ### **Méthodes Agiles :**
-- Scrum
-- Kanban
+- **Scrum**
+- **Kanban**
 
 ### **Systèmes d’exploitation :**
-- ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white) Linux
-- ![Windows](https://img.shields.io/badge/Windows-%230078D6E.svg?style=flat&logo=windows&logoColor=white) Windows
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white) **Linux**
+- ![Windows](https://img.shields.io/badge/Windows-%230078D6E.svg?style=flat&logo=windows&logoColor=white) **Windows**
 
 ### **Outils :**
-- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) Docker
-- ![SonarQube](https://img.shields.io/badge/SonarQube-%234285B3.svg?style=flat&logo=sonarqube&logoColor=white) SonarQube
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) Git
+- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) **Docker**
+- ![SonarQube](https://img.shields.io/badge/SonarQube-%234285B3.svg?style=flat&logo=sonarqube&logoColor=white) **SonarQube**
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) **Git**
 
 ### **Autres :**
-- DevOps
-- CI/CD
-- Cloud (GCP)
+- **DevOps**
+- **CI/CD**
+- **Cloud (GCP)**
 
 
 ---
