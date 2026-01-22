@@ -69,18 +69,6 @@ Je suis un **développeur Full Stack** avec une expérience dans divers domaines
 - **CI/CD**
 - **Cloud (GCP)**
 
-
----
-
-## 💻 **Projets Réalisés**
-
-Voici une sélection de projets que j'ai réalisés dans le cadre de mon cursus universitaire et de mes projets personnels. Ces projets reflètent mes compétences techniques, mon approche de résolution de problèmes et ma capacité à créer des applications performantes.
-
-### 🚀 [**Clone de Netflix**](https://github.com/ton-utilisateur/netflix-clone)
-- **Description :** Clone de la célèbre plateforme de streaming Netflix, développé en utilisant **React** pour l'interface utilisateur et **Firebase** pour l'authentification et le stockage des données.
-- **Compétences :** React, Firebase, API REST, CSS3
-
-
 ## 📫 **Contact**
 
 N'hésitez pas à me contacter pour toute question, collaboration ou opportunité ! Je suis toujours ouvert aux nouveaux défis.
